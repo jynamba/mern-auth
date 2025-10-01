@@ -14,7 +14,7 @@ This project demonstrates a basic MERN (MongoDB, Express, React, Node.js) stack 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/francescovirgiliopopescu/mern-auth.git
+   git clone https://github.com/jynamba/mern-auth.git
    cd mern-auth
    ```
 
